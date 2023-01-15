@@ -1,5 +1,5 @@
 # Trainity_Data_Analytics_Trainee
-## Scroll the below PDF to view my Data Analysis Portfolio:-
+## Click and Scroll the below PDF link to view my Data Analysis Portfolio:-
 
 [Data_Analytics_portfolio](https://advait135.github.io/Trainity_Data_Analytics_Trainee/Data_Analytics_portfolio.pdf)
 
