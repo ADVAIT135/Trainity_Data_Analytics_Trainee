@@ -1,7 +1,8 @@
 # Trainity_Data_Analytics_Trainee
 ## Scroll the below PDF to view my Data Analysis Portfolio:-
 
-[DATA ANALYSIS PORTFOLIO -- ADVAIT CHAVAN](https://ADVAIT135.github.io/Trainity_Data_Analytics_Trainee/Trainity Data Analytics Trainee Task 9 - ADVAIT CHAVAN - Data Analysis Portfolio.pdf)
+[Data_Analytics_portfolio](https://advait135.github.io/Trainity_Data_Analytics_Trainee/Data_Analytics_portfolio.pdf)
+
 
 <p><h3> Completion Certificate:- </h3></p>
 <p align="left"> 
