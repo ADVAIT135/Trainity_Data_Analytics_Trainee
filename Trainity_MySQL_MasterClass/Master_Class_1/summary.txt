@@ -1,0 +1,1 @@
+SQL query and output in form of tables of Master Class_1 
