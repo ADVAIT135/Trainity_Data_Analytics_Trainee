@@ -1,0 +1,9 @@
+fname,minit,lname,ssn,bdate,address,sex,salary,super_ssn,dno
+John,B,Smith,123456789,1965-01-09,"731 Fondren, Houston, TX",M,30000.00,333445555,5
+Franklin,T,Wong,333445555,1955-01-09,"638 Fondren, Houston, TX",M,40000.00,888665555,5
+Joyce,A,English,453453453,1972-01-09,"5631 Fondren, Houston, TX",F,25000.00,333445555,5
+Ramesh,K,Narayan,666884444,1962-01-09,"975 Fondren, Houston, TX",M,38000.00,333445555,5
+James,E,Borg,888665555,1937-01-09,"450 Fondren, Houston, TX",M,55000.00,NULL,1
+Jennifer,S,Wallace,987654321,1941-01-09,"21 Fondren, Houston, TX",F,43000.00,888665555,4
+Ahmad,V,Jabbar,987987987,1969-01-09,"980 Fondren, Houston, TX",M,25000.00,987654321,4
+Alicia,J,Zelaya,999887777,1968-01-09,"3321 Fondren, Houston, TX",F,25000.00,987654321,4

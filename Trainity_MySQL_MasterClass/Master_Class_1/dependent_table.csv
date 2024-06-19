@@ -1,0 +1,8 @@
+essn,dependent_name,sex,bdate,relationship
+123456789,Alice,M,1988-04-05,Daughter
+123456789,Elizabeth,M,1967-04-05,Spouse
+123456789,Michael,M,1988-04-05,Son
+333445555,Alice,F,1986-04-05,Daughter
+333445555,Joy,F,1958-04-05,Spouse
+333445555,Theodore,M,1983-04-05,Son
+987654321,Abner,M,1942-04-05,Spouse
