@@ -64,3 +64,38 @@
 #### [JOINS AND FILTERING (B)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/826eb842bcb8e047c4f78cdc6590994e3d573799/Trainity_MySQL_MasterClass/Master_Class_4/joins%20and%20filtering_2.csv)
 <hr>
 
+# Master_Class_5 : NULLS and Aggregations
+## [SQL query Master Class_5](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/16bcbadadb7f8db1e26ae14a9cb9e86462cfd4af/Trainity_MySQL_MasterClass/Master_Class_5/trainity_mysql_master_class_5.sql)
+## Output: -
+### COUNT
+#### [COUNT (A)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/16bcbadadb7f8db1e26ae14a9cb9e86462cfd4af/Trainity_MySQL_MasterClass/Master_Class_5/count_1.csv)
+#### [COUNT (B)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/16bcbadadb7f8db1e26ae14a9cb9e86462cfd4af/Trainity_MySQL_MasterClass/Master_Class_5/count_2.csv)
+#### [COUNT (C)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/16bcbadadb7f8db1e26ae14a9cb9e86462cfd4af/Trainity_MySQL_MasterClass/Master_Class_5/count_3.csv)
+### DISTINCT
+#### [DISTINCT (A)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/16bcbadadb7f8db1e26ae14a9cb9e86462cfd4af/Trainity_MySQL_MasterClass/Master_Class_5/distinct.csv)
+#### [DISTINCT (B)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/16bcbadadb7f8db1e26ae14a9cb9e86462cfd4af/Trainity_MySQL_MasterClass/Master_Class_5/distinct_2.csv)
+#### [DISTINCT (C)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/16bcbadadb7f8db1e26ae14a9cb9e86462cfd4af/Trainity_MySQL_MasterClass/Master_Class_5/distinct_3.csv)
+### AVERAGE / MEAN
+#### [AVERAGE (A)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/16bcbadadb7f8db1e26ae14a9cb9e86462cfd4af/Trainity_MySQL_MasterClass/Master_Class_5/average_1.csv)
+#### [AVERAGE (B)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/16bcbadadb7f8db1e26ae14a9cb9e86462cfd4af/Trainity_MySQL_MasterClass/Master_Class_5/average_2.csv)
+### SUM
+#### [SUM (A)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/16bcbadadb7f8db1e26ae14a9cb9e86462cfd4af/Trainity_MySQL_MasterClass/Master_Class_5/sum_1.csv)
+#### [SUM (B)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/16bcbadadb7f8db1e26ae14a9cb9e86462cfd4af/Trainity_MySQL_MasterClass/Master_Class_5/sum_2.csv)
+### MIN MAX 
+#### [MIN MAX](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/16bcbadadb7f8db1e26ae14a9cb9e86462cfd4af/Trainity_MySQL_MasterClass/Master_Class_5/min_max_1.csv)
+### GROUP BY Clause
+#### [GROUP BY (A)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/16bcbadadb7f8db1e26ae14a9cb9e86462cfd4af/Trainity_MySQL_MasterClass/Master_Class_5/group_by_1.csv)
+#### [GROUP BY (B)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/16bcbadadb7f8db1e26ae14a9cb9e86462cfd4af/Trainity_MySQL_MasterClass/Master_Class_5/group_by_2.csv)
+#### [GROUP BY (C)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/16bcbadadb7f8db1e26ae14a9cb9e86462cfd4af/Trainity_MySQL_MasterClass/Master_Class_5/group_by_3.csv)
+#### [GROUP BY (D)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/16bcbadadb7f8db1e26ae14a9cb9e86462cfd4af/Trainity_MySQL_MasterClass/Master_Class_5/group_by_4.csv)
+#### [GROUP BY (E)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/16bcbadadb7f8db1e26ae14a9cb9e86462cfd4af/Trainity_MySQL_MasterClass/Master_Class_5/group_by_5.csv)
+### HAVING Clause
+#### [HAVING](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/16bcbadadb7f8db1e26ae14a9cb9e86462cfd4af/Trainity_MySQL_MasterClass/Master_Class_5/having_1.csv)
+### DATE Function
+#### [DATE (A)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/16bcbadadb7f8db1e26ae14a9cb9e86462cfd4af/Trainity_MySQL_MasterClass/Master_Class_5/Date_extract_1.csv)
+#### [DATE (B)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/16bcbadadb7f8db1e26ae14a9cb9e86462cfd4af/Trainity_MySQL_MasterClass/Master_Class_5/Date_extract_2.csv)
+#### [DATE (C)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/16bcbadadb7f8db1e26ae14a9cb9e86462cfd4af/Trainity_MySQL_MasterClass/Master_Class_5/Date_extract_3.csv)
+### CASE Statement
+#### [CASE](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/16bcbadadb7f8db1e26ae14a9cb9e86462cfd4af/Trainity_MySQL_MasterClass/Master_Class_5/case.csv)
+<hr>
+
