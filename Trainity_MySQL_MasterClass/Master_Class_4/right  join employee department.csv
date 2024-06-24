@@ -1,0 +1,10 @@
+fname,minit,lname,ssn,bdate,address,sex,salary,super_ssn,dno,dname,dnumber,mgr_ssn,mgr_start_date
+James,E,Borg,888665555,1937-01-09,"450 Fondren, Houston, TX",M,55000.00,333445555,1,Headquarters,1,888665555,1981-05-22
+Jennifer,S,Wallace,987654321,1941-01-09,"21 Fondren, Houston, TX",F,43000.00,888665555,4,Administration,4,987654321,1995-05-22
+Ahmad,V,Jabbar,987987987,1969-01-09,"980 Fondren, Houston, TX",M,25000.00,987654321,4,Administration,4,987654321,1995-05-22
+Alicia,J,Zelaya,999887777,1968-01-09,"3321 Fondren, Houston, TX",F,25000.00,987654321,4,Administration,4,987654321,1995-05-22
+John,B,Smith,123456789,1965-01-09,"731 Fondren, Houston, TX",M,30000.00,333445555,5,Research,5,333445555,1988-05-22
+Franklin,T,Wong,333445555,1955-01-09,"638 Fondren, Houston, TX",M,40000.00,888665555,5,Research,5,333445555,1988-05-22
+Joyce,A,English,453453453,1972-01-09,"5631 Fondren, Houston, TX",F,25000.00,333445555,5,Research,5,333445555,1988-05-22
+Ramesh,K,Narayan,666884444,1962-01-09,"975 Fondren, Houston, TX",M,38000.00,333445555,5,Research,5,333445555,1988-05-22
+Advait,P,Chavan,987654312,2001-05-03,"B303,Mumbai,IN",M,95000.00,123456789,5,Research,5,333445555,1988-05-22
