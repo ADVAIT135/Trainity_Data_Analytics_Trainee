@@ -42,5 +42,25 @@
 ### DELETE command
 <hr>
 
-
+# Master_Class_4 : Joins
+## [SQL query Master Class_4](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/826eb842bcb8e047c4f78cdc6590994e3d573799/Trainity_MySQL_MasterClass/Master_Class_4/trainity_mysql_master_class_4.sql)
+## Output: -
+### ALIAS
+#### [ALIAS (A)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/826eb842bcb8e047c4f78cdc6590994e3d573799/Trainity_MySQL_MasterClass/Master_Class_4/alias_1.csv)
+#### [ALIAS (B)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/826eb842bcb8e047c4f78cdc6590994e3d573799/Trainity_MySQL_MasterClass/Master_Class_4/alias_2.csv)
+### JOINS
+#### INNER JOIN
+##### [INNER JOIN](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/826eb842bcb8e047c4f78cdc6590994e3d573799/Trainity_MySQL_MasterClass/Master_Class_4/inner%20join%20employee%20works_on.csv)
+#### LEFT JOIN
+##### [LEFT JOIN (A)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/826eb842bcb8e047c4f78cdc6590994e3d573799/Trainity_MySQL_MasterClass/Master_Class_4/left%20join%20employee%20department.csv)
+##### [LEFT JOIN (B)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/826eb842bcb8e047c4f78cdc6590994e3d573799/Trainity_MySQL_MasterClass/Master_Class_4/left%20join%20employee%20department_2.csv)
+#### RIGHT JOIN
+##### [RIGHT JOIN (A](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/826eb842bcb8e047c4f78cdc6590994e3d573799/Trainity_MySQL_MasterClass/Master_Class_4/right%20%20join%20employee%20department.csv)
+##### [RIGHT JOIN (B)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/826eb842bcb8e047c4f78cdc6590994e3d573799/Trainity_MySQL_MasterClass/Master_Class_4/right%20%20join%20employee%20department_2.csv)
+#### CROSS JOIN
+##### [CROSS JOIN](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/826eb842bcb8e047c4f78cdc6590994e3d573799/Trainity_MySQL_MasterClass/Master_Class_4/cross%20join%20project%20department.csv)
+### JOINS AND FILTERING 
+#### [JOINS AND FILTERING (A)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/826eb842bcb8e047c4f78cdc6590994e3d573799/Trainity_MySQL_MasterClass/Master_Class_4/joins%20and%20filtering.csv)
+#### [JOINS AND FILTERING (B)](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/826eb842bcb8e047c4f78cdc6590994e3d573799/Trainity_MySQL_MasterClass/Master_Class_4/joins%20and%20filtering_2.csv)
+<hr>
 
