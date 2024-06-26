@@ -116,3 +116,19 @@
 ##### [D-3](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/9592ea48eab7416a3212539b32189830095510cc/Trainity_MySQL_MasterClass/Master_Class_6/placement_with_2.csv)
 <hr>
 
+# Master_Class_7 : Subqueries Formatting
+## [SQL Query Master Class_7](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/48f79a7bc0d14f540f34661858cd25f7cc074f96/Trainity_MySQL_MasterClass/Master_Class_7/trainity_mysql_master_class_7.sql)
+## OUTPUT: - 
+### CORELATED SUBQUERY
+#### [Example 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/48f79a7bc0d14f540f34661858cd25f7cc074f96/Trainity_MySQL_MasterClass/Master_Class_7/corelated%20query.csv)
+#### [Example 2](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/48f79a7bc0d14f540f34661858cd25f7cc074f96/Trainity_MySQL_MasterClass/Master_Class_7/corelated%20query_1.csv)
+### VIEWS
+#### [Example 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/48f79a7bc0d14f540f34661858cd25f7cc074f96/Trainity_MySQL_MasterClass/Master_Class_7/view_1.csv)
+#### [Example 2](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/48f79a7bc0d14f540f34661858cd25f7cc074f96/Trainity_MySQL_MasterClass/Master_Class_7/view_12.csv)
+#### [Example 3](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/48f79a7bc0d14f540f34661858cd25f7cc074f96/Trainity_MySQL_MasterClass/Master_Class_7/view_3.csv)
+#### [Example 4](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/48f79a7bc0d14f540f34661858cd25f7cc074f96/Trainity_MySQL_MasterClass/Master_Class_7/view_4.csv)
+#### [Example 5](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/48f79a7bc0d14f540f34661858cd25f7cc074f96/Trainity_MySQL_MasterClass/Master_Class_7/view_5.csv)
+### Optimized Subquery
+#### [Example 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/48f79a7bc0d14f540f34661858cd25f7cc074f96/Trainity_MySQL_MasterClass/Master_Class_7/optimised%20Subquery.csv)
+<hr>
+
