@@ -99,3 +99,20 @@
 #### [CASE](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/16bcbadadb7f8db1e26ae14a9cb9e86462cfd4af/Trainity_MySQL_MasterClass/Master_Class_5/case.csv)
 <hr>
 
+# Master_Class_6 : MySQL Subqueries
+## [SQL Query Master Class_6](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/9592ea48eab7416a3212539b32189830095510cc/Trainity_MySQL_MasterClass/Master_Class_6/trainity_mysql_master_class_6.sql)
+## OUTPUT: -
+### PLACEMENT Query Types: -
+#### [A] NESTED Placement Query
+##### [A-1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/9592ea48eab7416a3212539b32189830095510cc/Trainity_MySQL_MasterClass/Master_Class_6/placement_placement.csv)
+##### [A-2](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/9592ea48eab7416a3212539b32189830095510cc/Trainity_MySQL_MasterClass/Master_Class_6/placement_nested_1csv.csv)
+#### [B] INLINE Placement Query
+##### [B-1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/9592ea48eab7416a3212539b32189830095510cc/Trainity_MySQL_MasterClass/Master_Class_6/placement_inline.csv)
+#### [C] SCALAR Placement Query
+##### [C-1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/9592ea48eab7416a3212539b32189830095510cc/Trainity_MySQL_MasterClass/Master_Class_6/placement_scalar.csv)
+#### [D] WITH Placement Query
+##### [D-1 Common Table Expression (CTE) using WITH Placement Query](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/9592ea48eab7416a3212539b32189830095510cc/Trainity_MySQL_MasterClass/Master_Class_6/cte_common_table_expression.csv)
+##### [D-2](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/9592ea48eab7416a3212539b32189830095510cc/Trainity_MySQL_MasterClass/Master_Class_6/placement_with.csv)
+##### [D-3](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/9592ea48eab7416a3212539b32189830095510cc/Trainity_MySQL_MasterClass/Master_Class_6/placement_with_2.csv)
+<hr>
+
