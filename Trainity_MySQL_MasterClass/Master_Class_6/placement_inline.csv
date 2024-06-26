@@ -1,0 +1,2 @@
+min(Dept_avg.avg_salary),max(Dept_avg.avg_salary)
+31000.000000,55000.000000
