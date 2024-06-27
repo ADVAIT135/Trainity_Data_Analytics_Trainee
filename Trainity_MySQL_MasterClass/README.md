@@ -155,3 +155,24 @@
 ##### [Example 2](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/04eb38a49f08c9f0ca7a05c5f9195acb7f81f7d2/Trainity_MySQL_MasterClass/Master_Class_8/row_num_2.csv)
 <hr>
 
+# Master_Class_9 : Aliases for Multiple Window Functions
+## [SQL Query Master Class_9](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/9f88493176bdfa4c9c801915103bf63992f03d79/Trainity_MySQL_MasterClass/Master_Class_9/trainity_mysql_master_class_9.sql)
+## OUTPUT: -
+### COLUMN ALIASES
+#### [EXAMPLE 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/9f88493176bdfa4c9c801915103bf63992f03d79/Trainity_MySQL_MasterClass/Master_Class_9/column_alias_1.csv)
+#### [EXAMPLE 2](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/9f88493176bdfa4c9c801915103bf63992f03d79/Trainity_MySQL_MasterClass/Master_Class_9/column_alias_2.csv)
+### TABLE ALIASES
+#### [EXAMPLE 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/9f88493176bdfa4c9c801915103bf63992f03d79/Trainity_MySQL_MasterClass/Master_Class_9/table_alias_1.csv)
+### LAG() Window Function
+#### [EXAMPLE 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/9f88493176bdfa4c9c801915103bf63992f03d79/Trainity_MySQL_MasterClass/Master_Class_9/lag_1.csv)
+#### [EXAMPLE 2](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/9f88493176bdfa4c9c801915103bf63992f03d79/Trainity_MySQL_MasterClass/Master_Class_9/lag_1_non_null.csv)
+#### [EXAMPLE 3](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/9f88493176bdfa4c9c801915103bf63992f03d79/Trainity_MySQL_MasterClass/Master_Class_9/lag_2.csv)
+#### [EXAMPLE 4](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/9f88493176bdfa4c9c801915103bf63992f03d79/Trainity_MySQL_MasterClass/Master_Class_9/lag_3.csv)
+### LEAD() Window Function
+#### [EXAMPLE 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/9f88493176bdfa4c9c801915103bf63992f03d79/Trainity_MySQL_MasterClass/Master_Class_9/lead_1.csv)
+### RANK_PERCENT() Window Function / Percentiles
+#### [EXAMPLE 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/9f88493176bdfa4c9c801915103bf63992f03d79/Trainity_MySQL_MasterClass/Master_Class_9/percentile_1.csv)
+#### [EXAMPLE 2](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/9f88493176bdfa4c9c801915103bf63992f03d79/Trainity_MySQL_MasterClass/Master_Class_9/percentile_2.csv)
+#### [EXAMPLE 3](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/9f88493176bdfa4c9c801915103bf63992f03d79/Trainity_MySQL_MasterClass/Master_Class_9/percentile_3.csv)
+<hr>
+
