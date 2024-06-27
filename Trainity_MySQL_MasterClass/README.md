@@ -132,3 +132,26 @@
 #### [Example 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/48f79a7bc0d14f540f34661858cd25f7cc074f96/Trainity_MySQL_MasterClass/Master_Class_7/optimised%20Subquery.csv)
 <hr>
 
+# Master_Class_8 : Core Window Functions
+## [SQL Query Master Class_8](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/04eb38a49f08c9f0ca7a05c5f9195acb7f81f7d2/Trainity_MySQL_MasterClass/Master_Class_8/trainity_mysql_master_class_8.sql)
+## OUTPUT: -
+### Window Function
+#### [Example 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/04eb38a49f08c9f0ca7a05c5f9195acb7f81f7d2/Trainity_MySQL_MasterClass/Master_Class_8/group_op_1.csv)
+#### [Example 2](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/04eb38a49f08c9f0ca7a05c5f9195acb7f81f7d2/Trainity_MySQL_MasterClass/Master_Class_8/window_1.csv)
+#### [Example 3](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/04eb38a49f08c9f0ca7a05c5f9195acb7f81f7d2/Trainity_MySQL_MasterClass/Master_Class_8/window_2.csv)
+### Core Window Function
+#### [Example 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/04eb38a49f08c9f0ca7a05c5f9195acb7f81f7d2/Trainity_MySQL_MasterClass/Master_Class_8/with_example_1.csv)
+#### [Example 2](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/04eb38a49f08c9f0ca7a05c5f9195acb7f81f7d2/Trainity_MySQL_MasterClass/Master_Class_8/with_example__window_function_1.csv)
+#### [Example 3](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/04eb38a49f08c9f0ca7a05c5f9195acb7f81f7d2/Trainity_MySQL_MasterClass/Master_Class_8/with_example__window_function_2.csv)
+### Types of Window Functions: - 
+#### [A] RANK() Window Function
+##### [Example 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/04eb38a49f08c9f0ca7a05c5f9195acb7f81f7d2/Trainity_MySQL_MasterClass/Master_Class_8/rank.csv)
+##### [Example 2](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/04eb38a49f08c9f0ca7a05c5f9195acb7f81f7d2/Trainity_MySQL_MasterClass/Master_Class_8/rank_2.csv)
+#### [B] DENSE_RANK() Window Function
+##### [Example 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/04eb38a49f08c9f0ca7a05c5f9195acb7f81f7d2/Trainity_MySQL_MasterClass/Master_Class_8/dense_rank_1.csv)
+##### [Example 2](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/04eb38a49f08c9f0ca7a05c5f9195acb7f81f7d2/Trainity_MySQL_MasterClass/Master_Class_8/dense_rank_2.csv)
+#### [C] ROW_NUMBER() Window Function
+##### [Example 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/04eb38a49f08c9f0ca7a05c5f9195acb7f81f7d2/Trainity_MySQL_MasterClass/Master_Class_8/row_num_1.csv)
+##### [Example 2](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/04eb38a49f08c9f0ca7a05c5f9195acb7f81f7d2/Trainity_MySQL_MasterClass/Master_Class_8/row_num_2.csv)
+<hr>
+
