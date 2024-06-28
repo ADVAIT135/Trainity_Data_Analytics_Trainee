@@ -203,4 +203,20 @@
 #### [EXAMPLE 3](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/1b75bf2a20eceeaef1b7aa1fb3fea098708f80c6/Trainity_MySQL_MasterClass/Master_Class_10/coalesce_3.csv)
 <hr>
 
+# Master_Class_11 : Advanced SQL and Performance Tuning
+## [SQL Query Master Class_11](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/ebf94ecb30676c7372baee473ed35bb50cbfbd40/Trainity_MySQL_MasterClass/Master_Class_11/trainity_mysql_master_class_11.sql)
+## OUTPUT: - 
+### NON EQUI JOINS
+#### [EXAMPLE 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/ebf94ecb30676c7372baee473ed35bb50cbfbd40/Trainity_MySQL_MasterClass/Master_Class_11/non%20equi%20join%201.csv)
+#### [EXAMPLE 2](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/ebf94ecb30676c7372baee473ed35bb50cbfbd40/Trainity_MySQL_MasterClass/Master_Class_11/non%20equi%20join%202.csv)
+### SELF JOINS
+#### [EXAMPLE 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/ebf94ecb30676c7372baee473ed35bb50cbfbd40/Trainity_MySQL_MasterClass/Master_Class_11/self%20join.csv)
+### UNION() Operator
+#### [EXAMPLE 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/ebf94ecb30676c7372baee473ed35bb50cbfbd40/Trainity_MySQL_MasterClass/Master_Class_11/union%201.csv)
+### FULL OUTER JOIN
+#### [EXAMPLE 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/ebf94ecb30676c7372baee473ed35bb50cbfbd40/Trainity_MySQL_MasterClass/Master_Class_11/full%20outer%20join.csv)
+### EXPLAIN() Utility in MySQL
+#### [EXAMPLE 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/ebf94ecb30676c7372baee473ed35bb50cbfbd40/Trainity_MySQL_MasterClass/Master_Class_11/explain.csv)
+<hr>
+
 
