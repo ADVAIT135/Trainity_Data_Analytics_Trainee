@@ -1,0 +1,6 @@
+id,select_type,table,partitions,type,possible_keys,key,key_len,ref,rows,filtered,Extra
+1,PRIMARY,employee,NULL,ALL,NULL,NULL,NULL,NULL,9,100.00,NULL
+1,PRIMARY,department,NULL,ALL,PRIMARY,NULL,NULL,NULL,3,100.00,"Using where; Using join buffer (hash join)"
+2,UNION,department,NULL,ALL,NULL,NULL,NULL,NULL,3,100.00,NULL
+2,UNION,employee,NULL,ref,fk_dno,fk_dno,3,companydb.department.dnumber,3,100.00,NULL
+3,"UNION RESULT","<union1,2>",NULL,ALL,NULL,NULL,NULL,NULL,NULL,NULL,"Using temporary"
