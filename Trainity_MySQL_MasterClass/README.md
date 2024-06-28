@@ -176,3 +176,31 @@
 #### [EXAMPLE 3](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/9f88493176bdfa4c9c801915103bf63992f03d79/Trainity_MySQL_MasterClass/Master_Class_9/percentile_3.csv)
 <hr>
 
+# Master_Class_10 : Data Cleaning Strategy
+## [SQL Query Master Class_10](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/1b75bf2a20eceeaef1b7aa1fb3fea098708f80c6/Trainity_MySQL_MasterClass/Master_Class_10/trainity_mysql_master_class_10.sql)
+## OUTPUT: -
+### LEFT() Function
+#### [EXAMPLE 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/1b75bf2a20eceeaef1b7aa1fb3fea098708f80c6/Trainity_MySQL_MasterClass/Master_Class_10/left_1.csv)
+#### [EXAMPLE 2](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/1b75bf2a20eceeaef1b7aa1fb3fea098708f80c6/Trainity_MySQL_MasterClass/Master_Class_10/left_2.csv)
+#### [EXAMPLE 3](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/1b75bf2a20eceeaef1b7aa1fb3fea098708f80c6/Trainity_MySQL_MasterClass/Master_Class_10/left_3.csv)
+### RIGHT() Function
+#### [EXAMPLE 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/1b75bf2a20eceeaef1b7aa1fb3fea098708f80c6/Trainity_MySQL_MasterClass/Master_Class_10/right_1.csv)
+#### [EXAMPLE 2](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/1b75bf2a20eceeaef1b7aa1fb3fea098708f80c6/Trainity_MySQL_MasterClass/Master_Class_10/right_2.csv)
+#### [EXAMPLE 3](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/1b75bf2a20eceeaef1b7aa1fb3fea098708f80c6/Trainity_MySQL_MasterClass/Master_Class_10/right_3.csv)
+### SUBSTRING() Function
+#### [EXAMPLE 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/1b75bf2a20eceeaef1b7aa1fb3fea098708f80c6/Trainity_MySQL_MasterClass/Master_Class_10/substring_1.csv)
+#### [EXAMPLE 2](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/1b75bf2a20eceeaef1b7aa1fb3fea098708f80c6/Trainity_MySQL_MasterClass/Master_Class_10/substring_2.csv)
+### CONCAT() Function
+#### [EXAMPLE 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/1b75bf2a20eceeaef1b7aa1fb3fea098708f80c6/Trainity_MySQL_MasterClass/Master_Class_10/concat_1.csv)
+### CAST() Function
+#### [EXAMPLE 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/1b75bf2a20eceeaef1b7aa1fb3fea098708f80c6/Trainity_MySQL_MasterClass/Master_Class_10/cast_1.csv)
+### POSITION() Function
+#### [EXAMPLE 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/1b75bf2a20eceeaef1b7aa1fb3fea098708f80c6/Trainity_MySQL_MasterClass/Master_Class_10/position_1.csv)
+#### [EXAMPLE 2](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/1b75bf2a20eceeaef1b7aa1fb3fea098708f80c6/Trainity_MySQL_MasterClass/Master_Class_10/position_2.csv)
+### COALESCE() Function
+#### [EXAMPLE 1](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/1b75bf2a20eceeaef1b7aa1fb3fea098708f80c6/Trainity_MySQL_MasterClass/Master_Class_10/coalesce_1.csv)
+#### [EXAMPLE 2](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/1b75bf2a20eceeaef1b7aa1fb3fea098708f80c6/Trainity_MySQL_MasterClass/Master_Class_10/coalesce_2.csv)
+#### [EXAMPLE 3](https://github.com/ADVAIT135/Trainity_Data_Analytics_Trainee/blob/1b75bf2a20eceeaef1b7aa1fb3fea098708f80c6/Trainity_MySQL_MasterClass/Master_Class_10/coalesce_3.csv)
+<hr>
+
+
